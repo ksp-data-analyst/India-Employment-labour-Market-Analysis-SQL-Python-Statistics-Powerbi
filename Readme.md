@@ -1,5 +1,5 @@
 
-# 🇮🇳 India Employment & Labour Market Analytics – PLFS Microdata
+# India Employment & Labour Market Analytics – PLFS Microdata
 
 _Analyzing employment access, job quality, earnings stability, and structural labour market inequalities in India using PLFS microdata, using SQL, Python-based EDA, statistical testing, and a Power BI dashboard._
 
